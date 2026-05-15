@@ -17,7 +17,9 @@ make -j$(nproc)
 ```
 
 ## Usage
+```
 sudo ./snooptop
+```
 
 ## JSON Stream
 Bypass the TUI to output raw JSON lines for scripting, logging, or piping.
