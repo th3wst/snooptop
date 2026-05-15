@@ -9,7 +9,7 @@
 
 ## Build
 ```bash
-git clone [https://github.com/th3wst/snooptop.git](https://github.com/th3wst/snooptop.git)
+git clone https://github.com/th3wst/snooptop.git
 cd snooptop
 mkdir build && cd build
 cmake ..
