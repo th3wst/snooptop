@@ -14,6 +14,7 @@ cd snooptop
 mkdir build && cd build
 cmake ..
 make -j$(nproc)
+```
 
 ## Usage
 sudo ./snooptop
